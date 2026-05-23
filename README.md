@@ -66,7 +66,3 @@ etc
 🏗️ Scalable backend architectures
 🚀 Startup building & SaaS ideas
 📊 AI + productivity tools
-
-turn it into a premium portfolio landing page README
-
-Just tell me 👍
